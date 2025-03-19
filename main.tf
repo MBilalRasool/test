@@ -37,5 +37,6 @@ resource "aws_instance" "web" {
   tags = {
     Name = "bilaassdsl2-"
 
+
   }
 }
