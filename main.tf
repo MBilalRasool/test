@@ -35,6 +35,7 @@ resource "aws_instance" "web" {
   instance_type = "t2.micro"
 
   tags = {
-    Name = "bilal2-"
+    Name = "bilaassl2-"
+
   }
 }
